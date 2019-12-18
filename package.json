@@ -1,6 +1,6 @@
 {
   "name": "react-native-ico-software-development",
-  "version": "2.5.1",
+  "version": "2.5.2",
   "description": "Software Development Icons for React Native",
   "main": "src/index.js",
   "dependencies": {
