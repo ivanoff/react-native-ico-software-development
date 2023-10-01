@@ -1,6 +1,6 @@
 {
   "name": "react-native-ico-software-development",
-  "version": "4.1.4",
+  "version": "4.1.5",
   "description": "Software Development Icons for React Native",
   "main": "src/index.jsx",
   "types": "typings.d.ts",
